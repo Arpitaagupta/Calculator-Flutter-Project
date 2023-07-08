@@ -26,7 +26,7 @@ The app utilizes the `math_expressions` package, which handles all the calculati
 <img src="Screenshots/Screenshot-2.png" width="250" alt="Screenshot-2">
 
 
-## Click here to view working <video src="https://drive.google.com/file/d/1uV5mH-H5HYJt4ue3UEp9UZIWoq0uDvAY/view?usp=sharing" width="500" alt="Video">
+## [Click here to view demonstration](https://drive.google.com/file/d/1uV5mH-H5HYJt4ue3UEp9UZIWoq0uDvAY/view?usp=sharing)
 
 
 ## 👉 Prerequisites
